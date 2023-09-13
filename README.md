@@ -1,2 +1,3 @@
 # Clustering-comparison
-Here I have compared K-Means, GMM, clustering by Autoencoder, and PCA for a random data. 
+Here I have compared K-Means, GMM, clustering by Autoencoder, and PCA for a random data.
+This repository contains codes that are fairly basic and beginner friendly. For an in detail conversation about my research, please reach out to me at manthanjsh@gmail.com
